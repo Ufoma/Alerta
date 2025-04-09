@@ -21,7 +21,7 @@ The journey's been tough, but I’m all about growth.
 
 ## ⚡ What Sparked This Project?
 
-A fellow dev [let's call him Krazy](github.com/krazygenus) gave me a much-needed wake-up call about my GitHub activity — and honestly, he wasn’t wrong.
+A fellow dev [let's call him Krazy](https://github.com/krazygenus) gave me a much-needed wake-up call about my GitHub activity — and honestly, he wasn’t wrong.
 
 After looking through my repos, I saw the silence. So I decided to kickstart **Alerta**, a project aligned with what we’re currently working on.  
 This isn’t the final build, but it's a step forward.
